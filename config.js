@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'My à!',
-    introDesc: `Vì đời còn lắm sóng gió.
-    Sao em không ngồi lại cùng chút bình minh`,
+    introDesc: 'Vì đời còn lắm sóng gió. Sao em không ngồi lại cùng chút bình minh',
     btnIntro: 'hihi',
     title: 'Tạm bỏ lại gánh trên vai 😙',
     desc: 'Theo anh đi tìm lại một phút yên bình ',
